@@ -1,12 +1,4 @@
-<h1 align="center">
 
- <a href="https://git.io/typing-svg">
-
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello,+i'm+Genzai.+666+YO;i'am+a+web,mobile+and+bot+developer">
-
-  </a>
-
-</h1>
 
 ## Hello, Im [Genzai](https://instagram.com/genzai666) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
