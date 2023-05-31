@@ -8,7 +8,7 @@
 
 [![GitHub Genzai666](https://img.shields.io/github/followers/Genzai666?label=follow&style=social)](https://github.com/Genzai666)
 
-:page_with_curl: I'm currently learning:
+:🧒 BIODATA/INTRO:
 
 - GENZAI • [pirvate name]
 
