@@ -11,14 +11,12 @@
 ![Git](https://img.shields.io/badge/-Git-280137?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-280137?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;[intro]
 
-<p align="center" class="d-flex justify-content-center align-items-center">
-  <a href="https://github.com/Genzai666">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Genzai666t&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Genzai666&layout=compact&langs_count=8&theme=omni"/>
-  </a>
-</p>
+"name": "Ares",
+"umur": "18 tahun",
+"status": "undefined",
+"alamat": "pemalang, Indonesia"
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -26,5 +24,4 @@
 <a href="https://www.instagram.com/genzai666">
 <img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-alipje29-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <p align="center">
-    <a href="https://discord.com/users/949509197173755906"><img
 </p>
