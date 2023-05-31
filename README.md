@@ -15,7 +15,7 @@
 
 <p align="center" class="d-flex justify-content-center align-items-center">
   <a href="https://github.com/Genzai666">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlipBot&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Genzai666t&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Genzai666&layout=compact&langs_count=8&theme=omni"/>
   </a>
 </p>
@@ -23,8 +23,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.instagram.com/alipje29">
+<a href="https://www.instagram.com/genzai666">
 <img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-alipje29-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <p align="center">
-    <a href="https://discord.com/users/949509197173755906"><img src="https://lanyard.cnrad.dev/api/949509197173755906?borderRadius=20px&bg=transparent&idleMessage=Probably%20doing%20something%20else..." alt="Discord" width="450"/></a>
+    <a href="https://discord.com/users/949509197173755906"><img
 </p>
