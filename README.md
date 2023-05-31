@@ -10,11 +10,9 @@
 
 :page_with_curl: I'm currently learning:
 
-- Golang • Python • Javascript • Java
+- GENZAI • [pirvate name]
 
-- Kotlin • Django • Jade • Nodejs
+- 18 TAHUN • 18 YEARS
 
-- Laravel • Codeigniter • Vuejs • Express JS
-
-- PHP • Shell
+- PEMALANG • JAWA TENGAH • INDONESIA
 
